@@ -23,7 +23,7 @@ This project analyzes customer reviews and product ratings from **TechStyle Onli
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Usage |
 |------|-------|
